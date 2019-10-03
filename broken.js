@@ -1,4 +1,6 @@
-var function(x){
+var Submission = {}
+
+Submission.main = function(x){
   return 1;
 }
 
